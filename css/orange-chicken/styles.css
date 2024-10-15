@@ -1,0 +1,20 @@
+/* styles.css */
+
+h1 {
+    color: yellow;
+    background: black;
+    text-align: center;
+}
+
+ul {
+    color: darkred;
+}
+
+p {
+    color: darkgreen;
+}
+
+ol {
+    color: white;
+    background-color: darkblue;
+}
